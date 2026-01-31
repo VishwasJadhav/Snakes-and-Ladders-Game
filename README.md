@@ -27,7 +27,7 @@ Instead of directly jumping into advanced concepts, I intentionally started with
 
 ---
 
-## 🧪 Version 1: Single-Player Game (Learning Stage)
+## 🧪 Version 1: Single-Player Game
 
 **Objective:** Learn and apply Python fundamentals
 
@@ -52,7 +52,7 @@ It focuses on implementing the core rules of Snakes & Ladders for a single playe
 
 ---
 
-## 🎮 Version 2: Multiplayer Game (Improved & Structured)
+## 🎮 Version 2: Multiplayer Game
 
 **Objective:** Extend the game logic to support multiple players and improve structure
 
@@ -93,14 +93,6 @@ In this version, I enhanced the original game to support **multiple players**, w
 ## 🔧 Tech Stack
 - Python
 - NumPy (used for dice roll simulation)
-
----
-
-## 🚀 Future Improvements
-- Replace NumPy with Python’s built-in `random` module
-- Add a visual board representation
-- Add replay and score history
-- Convert the game into an Object-Oriented (OOP) design
 
 ---
 
